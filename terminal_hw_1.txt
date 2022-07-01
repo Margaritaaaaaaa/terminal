@@ -1,0 +1,19 @@
+1) Посмотреть где я - pwd
+2) Создать папку - mkdir foldername
+3) Зайти в папку - cd foldername
+4) Создать 3 папки - mkdir foldername1 mkdir foldername2 mkdir foldername3
+5) Зайти в любоую папку - cd foldername1
+6) Создать 5 файлов (3 txt, 2 json) - touch file1.txt touch file2.txt touch file3.txt touch file1.json touch file2.json
+7) Создать 3 папки - mkdir foldername4 mkdir foldername5 mkdir foldername6
+8. Вывести список содержимого папки - ls -la
+9) + Открыть любой txt файл - cat file1.txt
+10) + написать туда что-нибудь, любой текст. - cat >> file1.txt
+11) + сохранить и выйти. - ctrl+c
+12) Выйти из папки на уровень выше - cd ..
+13) переместить любые 2 файла, которые вы создали, в любую другую папку. - mv file.txt foldername5 mv file2.txt foldername5
+14) скопировать любые 2 файла, которые вы создали, в любую другую папку. - cp file3.txt foldername4 cp file1.json foldername4
+15) Найти файл по имени - find . -name "file2.json"
+16) вывести несколько первых строк из текстового файла - head -n2 file1.txt
+17) вывести несколько последних строк из текстового файла - tail -n2 file1.txt
+18) просмотреть содержимое длинного файла (команда less) изучите как она работает. less foldername1/file1.txt
+

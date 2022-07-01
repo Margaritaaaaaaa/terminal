@@ -1,0 +1,31 @@
+cd qa_3
+
+mkdir me
+
+mkdir pe
+
+mkdir be
+
+cd me
+
+touch one1.txt
+
+touch two2.txt
+
+touch three3.txt
+
+touch one11.json
+
+touch two22.json
+
+mkdir qqa11
+
+mkdir qqa22
+
+mkdir qqa33
+
+ls -la
+
+mv one1.txt qqa11
+
+mv one11.json qqa11

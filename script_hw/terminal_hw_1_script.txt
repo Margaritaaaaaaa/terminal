@@ -1,0 +1,12 @@
+touch script.txt
+vim script.txt
+cd script.txt
+cd script.txt
+pwd
+cd тестирование
+cd group_30_free
+vim script.txt
+chmod ugo+x script.txt
+./script.txt
+[A[A[A[A[C[C[C[A[C[C[C[C[C[[A[C[A[C[A[C[A[C[B[B[B[B[B[B[B[C[C[C[B[B[C[B[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
